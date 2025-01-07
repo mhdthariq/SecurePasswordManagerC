@@ -1,0 +1,3 @@
+[submodule "PasswordManager"]
+	path = PasswordManager
+	url = https://github.com/mhdthariq/PasswordManagerCLang.git

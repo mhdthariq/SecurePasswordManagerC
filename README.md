@@ -18,8 +18,8 @@ This project is a simple and secure password manager written in C, utilizing Ope
 ### Clone the Repository
 Clone the repository to your local machine using Git:
 ```bash
-git clone https://github.com/mhdthariq/PasswordManagerCLang.git
-cd PasswordManagerCLang
+git clone https://github.com/mhdthariq/SecurePasswordManagerC.git PasswordManager
+cd PasswordManager
 ```
 
 ### Linux (Debian, Ubuntu, Fedora, Arch, openSUSE)
